@@ -57,7 +57,7 @@
 - Improve animations and UI
 
 ## Contributors
-- **Your Name** - Developer
+- **Space Halo** - Developers
 
 ## License
 This project is open-source and available under the MIT License.
